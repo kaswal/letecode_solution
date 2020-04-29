@@ -227,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WordBreak">
+  <component name="RunManager" selected="Python.merge intervals (1)">
     <configuration name="WordBreak" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linked_list_cycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="merge intervals (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,11 +278,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/linked_list_cycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/merge intervals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,19 +334,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.linked_list_cycle" />
       <item itemvalue="Python.linked list cycle II" />
       <item itemvalue="Python.merge intervals" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.WordBreak" />
+      <item itemvalue="Python.merge intervals (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.merge intervals (1)" />
         <item itemvalue="Python.WordBreak" />
         <item itemvalue="Python.merge intervals" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.linked list cycle II" />
-        <item itemvalue="Python.linked_list_cycle" />
       </list>
     </recent_temporary>
   </component>
