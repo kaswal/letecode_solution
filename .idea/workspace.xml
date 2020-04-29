@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1f4c686-86c2-4f24-8da1-fdef7bf34ca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/linked list cycle II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/merge intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/word Break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,45 +34,62 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="106" />
+          <entry key="py" value="111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="106" />
+          <entry key="Python" value="111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="486" />
+          <entry key="Python Console" value="608" />
           <entry key="dummy" value="13" />
-          <entry key="py" value="28152" />
+          <entry key="py" value="29767" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="28638" />
+          <entry key="Python" value="30375" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/linked_list_cycle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Medium/linked list cycle II.py">
+        <entry file="file://$PROJECT_DIR$/Medium/merge intervals.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <marker date="1588037484756" expanded="true" signature="12:17" ph="..." />
+                <marker date="1588037484756" expanded="true" signature="371:660" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/linked_list_cycle.py">
+        <entry file="file://$PROJECT_DIR$/Medium/WordBreak.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="43" lean-forward="true" selection-end-line="74" selection-end-column="31" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <marker date="1588042397469" expanded="true" signature="28:29" ph="..." />
+                <marker date="1588042397469" expanded="true" signature="28:362" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,10 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Roman_to_integer.py" />
-        <option value="$PROJECT_DIR$/longestcommonprefix.py" />
-        <option value="$PROJECT_DIR$/../DataStructures/LinkedList/remove_dup_from_sorted.py" />
-        <option value="$PROJECT_DIR$/../DataStructures/LinkedList/strStr.py" />
         <option value="$PROJECT_DIR$/../DataStructures/LinkedList/test.py" />
         <option value="$PROJECT_DIR$/../DataStructures/LinkedList/PlusOne.py" />
         <option value="$PROJECT_DIR$/../DataStructures/LinkedList/Sqrt.py" />
@@ -143,16 +156,22 @@
         <option value="$PROJECT_DIR$/Medium/Maximal square.py" />
         <option value="$PROJECT_DIR$/Easy/linked_list_cycle.py" />
         <option value="$PROJECT_DIR$/Medium/linked list cycle II.py" />
+        <option value="$PROJECT_DIR$/Medium/test.py" />
+        <option value="$PROJECT_DIR$/Easy/merge intervals.py" />
+        <option value="$PROJECT_DIR$/Easy/word Break.py" />
+        <option value="$PROJECT_DIR$/Medium/WordBreak.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2303" />
-    <option name="y" value="82" />
-    <option name="width" value="992" />
-    <option name="height" value="536" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -191,6 +210,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kaswal\Documents\Leetcode\Medium" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -203,8 +227,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.linked list cycle II">
-    <configuration name="Maximal square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.WordBreak">
+    <configuration name="WordBreak" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,7 +240,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/Maximal square.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/WordBreak.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindromic substrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="merge intervals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/palindromic substrings.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kaswal\Documents\Leetcode\Medium\merge intervals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,11 +320,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,19 +334,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.palindromic substrings" />
-      <item itemvalue="Python.Maximal square" />
       <item itemvalue="Python.linked_list_cycle" />
       <item itemvalue="Python.linked list cycle II" />
+      <item itemvalue="Python.merge intervals" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.WordBreak" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.WordBreak" />
+        <item itemvalue="Python.merge intervals" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.linked list cycle II" />
         <item itemvalue="Python.linked_list_cycle" />
-        <item itemvalue="Python.Maximal square" />
-        <item itemvalue="Python.palindromic substrings" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -340,23 +364,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19810326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2485129" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3298872" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.5566219" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39923224" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.4212766" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49947312" weight="0.39923224" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298872" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.39923224" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32917467" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -386,11 +410,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/max_subarray_kandane_algo.py" />
-    <entry file="file://$PROJECT_DIR$/Palindrome_number.py" />
-    <entry file="file://$PROJECT_DIR$/remove_dup_from_sorted.py" />
-    <entry file="file://$PROJECT_DIR$/length_of_last_world.py" />
-    <entry file="file://$PROJECT_DIR$/search_insert_pos.py" />
     <entry file="file://$PROJECT_DIR$/linked_list_remove_dup.py" />
     <entry file="file://$PROJECT_DIR$/single_number.py" />
     <entry file="file://$PROJECT_DIR$/Factorial_Trailing_Zeroes_smartsolution.py" />
@@ -574,17 +593,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/linked_list_cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="43" lean-forward="true" selection-end-line="74" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Medium/linked list cycle II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DataStructures/Stacks_ques/SortStack.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/word Break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/linked_list_cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/WordBreak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1588042397469" expanded="true" signature="28:29" ph="..." />
+            <marker date="1588042397469" expanded="true" signature="28:362" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/merge intervals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <marker date="1588037484756" expanded="true" signature="12:17" ph="..." />
+            <marker date="1588037484756" expanded="true" signature="371:660" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
