@@ -29,7 +29,6 @@ ll = LinkedList()
 
 
 def linkedlistcycle(head):
-
     p = head
     q = head
     flag = True
@@ -63,7 +62,6 @@ ll.append(2)
 ll.append(0)
 ll.append(-4)
 # ll.append(50)
-
 
 
 print("Print the linked list")
