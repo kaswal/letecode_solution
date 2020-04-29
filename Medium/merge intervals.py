@@ -35,8 +35,6 @@ def merge_overlapping(arr):
     return s.printstack()
 
 
-
-
-input_array = [[6,8],[1,9],[2,4],[4,7]]
+input_array = [[6, 8], [1, 9], [2, 4], [4, 7]]
 
 print(merge_overlapping(input_array))

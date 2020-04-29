@@ -34,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="111" />
+          <entry key="py" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="111" />
+          <entry key="Python" value="112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -71,11 +71,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Medium/merge intervals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="102">
+              <caret line="25" selection-start-line="25" selection-end-line="26" />
               <folding>
-                <marker date="1588037484756" expanded="true" signature="12:17" ph="..." />
-                <marker date="1588037484756" expanded="true" signature="371:660" ph="..." />
+                <marker date="1588142616806" expanded="true" signature="12:17" ph="..." />
+                <marker date="1588142616806" expanded="true" signature="371:658" ph="..." />
               </folding>
             </state>
           </provider>
@@ -84,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Medium/WordBreak.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="88">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <marker date="1588042397469" expanded="true" signature="28:29" ph="..." />
                 <marker date="1588042397469" expanded="true" signature="28:362" ph="..." />
@@ -109,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../DataStructures/LinkedList/test.py" />
         <option value="$PROJECT_DIR$/../DataStructures/LinkedList/PlusOne.py" />
         <option value="$PROJECT_DIR$/../DataStructures/LinkedList/Sqrt.py" />
         <option value="$PROJECT_DIR$/../DataStructures/LinkedList/uniquecharacterinstring.py" />
@@ -160,6 +159,7 @@
         <option value="$PROJECT_DIR$/Easy/merge intervals.py" />
         <option value="$PROJECT_DIR$/Easy/word Break.py" />
         <option value="$PROJECT_DIR$/Medium/WordBreak.py" />
+        <option value="$PROJECT_DIR$/Medium/merge intervals.py" />
       </list>
     </option>
   </component>
@@ -410,7 +410,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linked_list_remove_dup.py" />
     <entry file="file://$PROJECT_DIR$/single_number.py" />
     <entry file="file://$PROJECT_DIR$/Factorial_Trailing_Zeroes_smartsolution.py" />
     <entry file="file://$PROJECT_DIR$/fact_trailing_zeroes.py" />
@@ -624,10 +623,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/merge intervals.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Medium/WordBreak.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="88">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <marker date="1588042397469" expanded="true" signature="28:29" ph="..." />
             <marker date="1588042397469" expanded="true" signature="28:362" ph="..." />
@@ -637,11 +639,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Medium/merge intervals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="102">
+          <caret line="25" selection-start-line="25" selection-end-line="26" />
           <folding>
-            <marker date="1588037484756" expanded="true" signature="12:17" ph="..." />
-            <marker date="1588037484756" expanded="true" signature="371:660" ph="..." />
+            <marker date="1588142616806" expanded="true" signature="12:17" ph="..." />
+            <marker date="1588142616806" expanded="true" signature="371:658" ph="..." />
           </folding>
         </state>
       </provider>
