@@ -8,10 +8,10 @@ def word_break(s, wd):
             if dp[i] and s[i:j+1] in wd:
                 dp[j+1] = True
 
-    return dp[-1]
+    return dp
 
 
-mystr = 'applepenapple'
-wordDict = ["apple", "pen"]
+mystr = 'catsandog'
+wordDict = ["cats", "dog", "sand", "and", "cat"]
 
 print(word_break(mystr, wordDict))
