@@ -13,5 +13,5 @@ def maxSubArraySum(a, size):
 
 
 # Driver function to check the above function
-a = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+a = [-1, -2, -3, -4]
 print("Maximum contiguous sum is", maxSubArraySum(a, len(a)))

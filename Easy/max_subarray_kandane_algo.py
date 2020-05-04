@@ -1,23 +1,20 @@
 def maximumsubarray(arr):
+    max_so_far = 0
+    max_ending_here = 0
 
-    max_subarray = arr[0]
-    largest = max_subarray
+    for i in range(len(arr)):
 
-    for i in range(1, len(arr)):
+        max_ending_here = arr[i] + max_ending_here
 
-        if arr[i] > arr[i] + max_subarray:
-            max_subarray = arr[i]
-            largest = max_subarray
+        if max_ending_here < 0:
+            max_ending_here = 0
 
-        else:
-            max_subarray = arr[i] + max_subarray
-            if largest < max_subarray:
-                largest = max_subarray
+        elif max_so_far < max_ending_here:
+            max_so_far = max_ending_here
 
-    return largest
+    return max_so_far
 
 
-
-arr = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+arr = [1,2,3,-2,5]
 
 print(maximumsubarray(arr))
