@@ -1,24 +1,12 @@
 def longest_increasing_subseq(arr):
+    dp = [1] * len(arr)
 
-    myarr = []
+    for i in range(1, len(arr)):
+        for j in range(i):
+            if arr[j] < arr[i]:
+                dp[i] = max(dp[i], dp[j] + 1)
 
-    i = 1
-
-    while i < len(arr):
-        if arr[i] > arr[i - 1]:
-            if len(myarr) == 0:
-                myarr.append(arr[i - 1])
-                myarr.append(arr[i])
-            else:
-                if myarr[-1] >= arr[i - 1]:
-                    myarr.append(arr[i])
-                else:
-                    myarr.append(arr[i - 1])
-                    myarr.append(arr[i])
-
-        i += 1
-
-    return myarr
+    return dp
 
 
-print(longest_increasing_subseq([3,4,-1,0,6,2,3]))
+print(longest_increasing_subseq([3, 4, -1, 0, 6, 2, 3]))

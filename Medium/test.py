@@ -1,20 +1,17 @@
-def anagram(w, s):
-    mydict = {}
+def word_break(s, wd):
+    dp = [False] * (len(s) + 1)
+
+    dp[0] = True
 
     for i in range(len(s)):
-        if s[i] not in mydict.keys():
-            mydict[s[i]] = 1
-        else:
-            mydict[s[i]] += 1
+        for j in range(i, len(s)):
+            if dp[i] and s[i:j+1] in wd:
+                dp[j+1] = True
 
-    for key, value in mydict.items():
-        if key not in w:
-            return False
-        elif mydict[key] != w[key]:
-            return False
-
-    return True
+    return dp
 
 
-word = {'a': 1, 'b': 1, 'c': 1}
-print(anagram(word, 'abc'))
+mystr = 'catsandog'
+wordDict = ["cats", "dog", "sand", "and", "cat"]
+
+print(word_break(mystr, wordDict))
