@@ -1,10 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1f4c686-86c2-4f24-8da1-fdef7bf34ca7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Medium/maximum_product_subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/maximum_product_subarray.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medium/longest_substring_without_repeating_character.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Medium/maximum_product_subarray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../DataStructures/LinkedList/Sqrt.py" />
+        <option value="$PROJECT_DIR$/../DataStructures/LinkedList/uniquecharacterinstring.py" />
+        <option value="$PROJECT_DIR$/../DataStructures/LinkedList/uniquecharacterstring_hash.py" />
+        <option value="$PROJECT_DIR$/../DataStructures/LinkedList/best_time_to_buyandsellstock_II.py" />
+        <option value="$PROJECT_DIR$/../DataStructures/LinkedList/best_time_to_buyandsellstock_I.py" />
+        <option value="$PROJECT_DIR$/buy_sell_stock_optimal.py" />
+        <option value="$PROJECT_DIR$/maximumsubarray.py" />
+        <option value="$PROJECT_DIR$/validpalindrome.py" />
+        <option value="$PROJECT_DIR$/Palindrome_number.py" />
+        <option value="$PROJECT_DIR$/search_insert_pos.py" />
+        <option value="$PROJECT_DIR$/length_of_last_world.py" />
+        <option value="$PROJECT_DIR$/remove_dup_from_sorted.py" />
+        <option value="$PROJECT_DIR$/linked_list_remove_dup.py" />
+        <option value="$PROJECT_DIR$/twosum_onepasshash.py" />
+        <option value="$PROJECT_DIR$/Linked_list_del_node.py" />
+        <option value="$PROJECT_DIR$/Factorial_Trailing_Zeroes_smartsolution.py" />
+        <option value="$PROJECT_DIR$/fact_trailing_zeroes.py" />
+        <option value="$PROJECT_DIR$/happy_number.py" />
+        <option value="$PROJECT_DIR$/count_prime.py" />
+        <option value="$PROJECT_DIR$/contains_duplicate.py" />
+        <option value="$PROJECT_DIR$/linked_list_palindrome.py" />
+        <option value="$PROJECT_DIR$/valid_anagram.py" />
+        <option value="$PROJECT_DIR$/missing_number_lineartimecomplexity.py" />
+        <option value="$PROJECT_DIR$/missing_number.py" />
+        <option value="$PROJECT_DIR$/move_zeroes.py" />
+        <option value="$PROJECT_DIR$/power_of_three.py" />
+        <option value="$PROJECT_DIR$/reverse_string_linear_time.py" />
+        <option value="$PROJECT_DIR$/fizz_buzz.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/logest_palindromic_substring.py" />
+        <option value="$PROJECT_DIR$/Medium/LRU_Cache.py" />
+        <option value="$PROJECT_DIR$/Easy/search_insert_pos.py" />
+        <option value="$PROJECT_DIR$/Easy/linked_list_first_last.py" />
+        <option value="$PROJECT_DIR$/Medium/Add two numbers.py" />
+        <option value="$PROJECT_DIR$/Medium/jump game.py" />
+        <option value="$PROJECT_DIR$/Easy/palindromic substring.py" />
+        <option value="$PROJECT_DIR$/Medium/palindromic substring.py" />
+        <option value="$PROJECT_DIR$/Medium/longest palindromic substring.py" />
+        <option value="$PROJECT_DIR$/Medium/Remove Nth Node From End of List.py" />
+        <option value="$PROJECT_DIR$/Medium/first and last psoition in an array.py" />
+        <option value="$PROJECT_DIR$/Easy/test.py" />
+        <option value="$PROJECT_DIR$/Medium/Maximal square.py" />
+        <option value="$PROJECT_DIR$/Easy/linked_list_cycle.py" />
+        <option value="$PROJECT_DIR$/Medium/linked list cycle II.py" />
+        <option value="$PROJECT_DIR$/Easy/merge intervals.py" />
+        <option value="$PROJECT_DIR$/Easy/word Break.py" />
+        <option value="$PROJECT_DIR$/Medium/WordBreak.py" />
+        <option value="$PROJECT_DIR$/Medium/merge intervals.py" />
+        <option value="$PROJECT_DIR$/Medium/test.py" />
+        <option value="$PROJECT_DIR$/Medium/longest increasing subsequence.py" />
+        <option value="$PROJECT_DIR$/Medium/maximum_product_subarray.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Leetcode" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.maximum_product_subarray">
     <configuration name="WordBreak" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -128,5 +267,59 @@
         <item itemvalue="Python.WordBreak" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1f4c686-86c2-4f24-8da1-fdef7bf34ca7" name="Default Changelist" comment="" />
+      <created>1585162214065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585162214065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.3298872" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.4856046" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49947312" weight="0.39923224" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298872" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.39923224" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32917467" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

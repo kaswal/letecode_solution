@@ -9,4 +9,4 @@ def max_pro_subarray(arr):
     return max_product_so_far
 
 
-print(max_pro_subarray([2,3,-2,4]))
+print(max_pro_subarray([2, 3, -2, 4]))
