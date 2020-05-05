@@ -1,17 +1,13 @@
-def word_break(s, wd):
-    dp = [False] * (len(s) + 1)
+mydict = {1: 3, 2: 2, 3: 1}
+# mydict = {1: 1}
+k = 2
+i = 0
+arr = []
+while i < k:
 
-    dp[0] = True
+    arr.append(mydict.get(max(mydict.values())))
+    del mydict[mydict.get(max(mydict.values()))]
 
-    for i in range(len(s)):
-        for j in range(i, len(s)):
-            if dp[i] and s[i:j+1] in wd:
-                dp[j+1] = True
+    k -= 1
 
-    return dp
-
-
-mystr = 'catsandog'
-wordDict = ["cats", "dog", "sand", "and", "cat"]
-
-print(word_break(mystr, wordDict))
+print(arr)
