@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1f4c686-86c2-4f24-8da1-fdef7bf34ca7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/partition equal subset sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/partition equal subset sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,9 +149,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Add two numbers" />
       <item itemvalue="Python.jump game" />
       <item itemvalue="Python.longest substring without repeating character" />
-      <item itemvalue="Python.Add two numbers" />
       <item itemvalue="Python.max_subarray_kandane_algo" />
       <item itemvalue="Python.partition equal subset sum" />
     </list>
@@ -187,21 +188,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588836430677" />
-    <state width="1515" height="193" key="GridCell.Tab.0.bottom" timestamp="1588836472836">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1589152016171">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589152016171" />
     <state width="1515" height="193" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588836472836" />
-    <state width="1515" height="193" key="GridCell.Tab.0.center" timestamp="1588836472836">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1589152016171">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589152016171" />
     <state width="1515" height="193" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588836472836" />
-    <state width="1515" height="193" key="GridCell.Tab.0.left" timestamp="1588836472836">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1589152016171">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589152016171" />
     <state width="1515" height="193" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588836472836" />
-    <state width="1515" height="193" key="GridCell.Tab.0.right" timestamp="1588836472836">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1589152016171">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1589152016171" />
     <state width="1515" height="193" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588836472836" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1588835451660">
       <screen x="0" y="0" width="1536" height="824" />

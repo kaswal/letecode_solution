@@ -1,5 +1,4 @@
 def part_eq_subset_sum(arr):
-
     sum_of_arr = 0
 
     for i in range(len(arr)):
@@ -30,7 +29,7 @@ def part_eq_subset_sum(arr):
             else:
                 dp[i][j] = dp[i - 1][j]
 
-    return dp[rows-1][cols-1]
+    return dp[rows - 1][cols - 1]
 
 
 print(part_eq_subset_sum([1, 5, 11, 5]))
